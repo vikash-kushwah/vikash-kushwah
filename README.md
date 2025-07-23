@@ -51,4 +51,3 @@ I'm passionate about building impactful software solutions and solving challengi
 ---
 
 📫 **Let’s connect and collaborate!**  
-[LinkedIn](https://www.linkedin.com/in/vikashkushwahaa28/) | [Email](mailto:vikashkushwahaa28@gmail.com) | [GitHub](https://github.com/vikash-kushwah)
